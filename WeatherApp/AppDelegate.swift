@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WeatherApp
 //
-//  Created by Пользователь on 01.09.2020.
+//  Created by Пользователь on 25.08.2020.
 //  Copyright © 2020 Raisat Ramazanova. All rights reserved.
 //
 
